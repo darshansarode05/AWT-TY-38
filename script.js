@@ -12,7 +12,7 @@ function validateForm() {
         return;
     }
 
-     
+
     let pattern = /^[^\s@]+@[^\s@]+\.com+$/;
     if (!pattern.test(email)) {
         alert("Enter valid email");
