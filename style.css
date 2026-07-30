@@ -1,0 +1,26 @@
+body{
+ 
+   font-family:Arial;
+    background:#c8cbcc;
+    text-align:left;
+}
+form{
+    width:300px;
+    margin:auto;
+    padding:20px;
+    background:rgb(177, 224, 239);
+    border-radius:10px;
+}
+
+input{
+    width:90%;
+    padding:8px;
+}
+
+button{
+    padding:10px;
+    background:rgb(3, 249, 73);
+    color:rgb(5, 5, 5);
+    border:none;
+}
+
